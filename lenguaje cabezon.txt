@@ -1,0 +1,22 @@
+<p>parrafo</p>
+
+<a href="https://direccion.cl">Link a direccion</a>
+<a href="proyectos.html">Link a pagina interna</a>
+
+<img src="imagen.png">
+<img src="https://google.com/imagen.jpg">
+
+<h2>titulo</h2>
+<h3>titulo mas chico</h3>
+<h4>titulo mas mas chico</h4>
+
+
+Como agregar una foto:
+ir a Escritorio/preyeso.github.io/images
+agregar la nueva foto
+ir al programa Github con el gato morado
+Aceptar los cambios
+Click en la rueda de confuguracion
+click en open in git shell
+git push
+escribir usuario (preyeso) y la clave
